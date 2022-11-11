@@ -1,0 +1,24 @@
+# базовый cmake. (c) Кириллов Денис 2022
+
+# описание проекта. На весь проект одна директива project
+cmake_minimum_required(VERSION 3.16)
+project(mentor_test)
+
+set(CMAKE_CXX_STANDARD 20)
+
+# опциональное подключение тестов
+enable_testing()
+
+# сборка бинарника без библиотеки
+include_directories(include)
+find_package(GTest REQUIRED)
+include_directories(${INCLUDE_DIRECTORIES})
+
+# опциональная сборка тестов
+add_executable(vector_test test/main.cpp test/test-vector.cpp src/vector.cpp)
+target_link_libraries(vector_test ${GTEST_LIBRARIES} -lpthread -fprofile-arcs)
+add_test(vector_test ./vector_test)
+
+add_executable(matrix_test test/main.cpp test/test-matrix.cpp src/vector.cpp src/matrix.cpp)
+target_link_libraries(matrix_test ${GTEST_LIBRARIES} -lpthread -fprofile-arcs)
+add_test(matrix_test ./matrix_test)

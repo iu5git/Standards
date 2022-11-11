@@ -22,7 +22,7 @@
 
 - фронтенд
 1. React
-2. Redux
+2. Менеджер состояний Redux или хуки useContext+useReducer
 3. Визуальные компоненты MUI
 4. Nginx
 
@@ -50,10 +50,13 @@
 6. Nginx
 
 # Стандарты ПО для использования в учебном процессе
-### Требования к Linux
+### Требования к Linux студентов и компьютеров университета
 
 1. Ubuntu 20.04
 2. Python 3.9
-3. Anaconda
-4. IDE PyCharm, WebStorm, Visual Studio Code
-5. СУБД PostgreSQL
+3. IDE PyCharm, WebStorm, Visual Studio Code (приоритет)
+4. Anaconda
+5. RStudio
+6. СУБД PostgreSQL
+
+[Ссылка для скачивания Linux и требуемые пакеты](/Linux/Linux.md)
