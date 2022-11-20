@@ -58,7 +58,7 @@
 # Стандарты ПО для использования в учебном процессе
 ### Требования к Linux студентов и компьютеров университета
 
-1. Ubuntu 20.04
+1. Ubuntu 20.04 + docker
 2. Python 3.9
 3. IDE PyCharm, WebStorm, Visual Studio Code (приоритет)
 4. Anaconda
