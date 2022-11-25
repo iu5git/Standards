@@ -2,7 +2,7 @@
 
 ### Дизайнер
 
-Для дизайнеров используем Figma. [Инструкция](/../docs/Tutorial_MUI.pdf). При работе отрисовки макетов необходимо использовать [MUI For Figma](https://mui.com/store/items/figma-react/?utm_source=marketing&utm_medium=referral&utm_campaign=home-products)
+Для дизайнеров используем Figma. [Инструкция](https://github.com/iu5git/Standards/blob/main/docs/Tutorial_MUI.pdf). При работе отрисовки макетов необходимо использовать [MUI For Figma](https://mui.com/store/items/figma-react/?utm_source=marketing&utm_medium=referral&utm_campaign=home-products)
 
 ### JavaScript
 Для большинства библиотек желательно использовать последнюю мажорную версию, допускается 1 предыдущая мажорная версия. 
