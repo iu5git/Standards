@@ -26,7 +26,7 @@
 
 #### Фронтенд. Подробное [описание](/details/React.md) 
 1. React
-2. Менеджер состояний Redux или хуки useContext+useReducer
+2. Менеджер состояний Redux
 3. Визуальные компоненты MUI
 4. Nginx
 

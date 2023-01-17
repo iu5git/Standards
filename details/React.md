@@ -33,8 +33,7 @@ Husky - разрешены только версии 4.x.x и 3.x.x, pre-commit 
 
 ### Менеджер состояний 
 
-- Redux Toolkit, если разработчик может обосновать его использование 
-- В остальных случаях нативные хуки useContext+useReducer
+- Redux Toolkit
 
 ### UI-KIt
 
