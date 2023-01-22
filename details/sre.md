@@ -11,6 +11,7 @@
 ### GitLab, пайплайны
 
 - GitLab bmstu.codes
+- Прямые commit в master запрещаются
 
 - Пайплайны пока не работают.
 
