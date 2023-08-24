@@ -1,7 +1,7 @@
 # Linux
 
 ## Образ для виртуальной машины
-- [Ссылка](https://drive.google.com/file/d/1mudkSa8viUku64X_fA54s330IRRGMxp6/view?usp=sharing) для использования образа Linux 20.04 с предустановленным ПО
+- [Ссылка](https://drive.google.com/file/d/1x_M81RqMyVRO8BMQgluCOVegHCo3N8IQ/view?usp=share_link) для использования образа Linux 20.04 с предустановленным ПО
 - Пользователь student
 - Пароль 1
 - База данных student
